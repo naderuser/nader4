@@ -13,7 +13,7 @@
   "kv_namespaces": [
     {
       "binding": "KV",
-      "id": "bef8c872b651470b9080fb5f176bc30f"
+      "id": "2faf101b305f4f11ac40d866399b3a53"
     }
   ],
 
@@ -22,8 +22,8 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "bpbbi",
-      "database_id": "010a4f0f-7246-4ba9-a22b-b64e265cbd39"
+      "database_name": "bs",
+      "database_id": "7557bf02-0ab3-4d14-a482-fb0d2873f3b7"
     }
   ],
 
